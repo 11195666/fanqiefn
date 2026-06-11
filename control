@@ -1,0 +1,7 @@
+Package: fanqiefn
+Name: 番茄净化
+Version: 2.0.0
+Architecture: iphoneos-arm64
+Description: 番茄小说(com.dragon.read) 伪装通知和小组件权限，去除让添加小组件的弹窗提醒、去除开启通知提醒
+Section: Tweaks
+Depends: firmware (>= 15.0)

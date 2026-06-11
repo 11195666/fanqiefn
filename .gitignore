@@ -1,0 +1,12 @@
+# Theos build artifacts
+.theos/
+
+# Pre-built packages
+packages/
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/
