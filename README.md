@@ -31,7 +31,7 @@ dpkg -i fanqiefn_*.deb
 需要安装 [Theos](https://theos.dev/) 开发环境。
 
 ```bash
-git clone https://github.com/你的用户名/fanqiefn.git
+git clone https://github.com/11195666/fanqiefn.git
 cd fanqiefn
 make package FINALPACKAGE=1
 ```
